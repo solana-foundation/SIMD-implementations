@@ -1,2 +1,2 @@
 # SIMD-implementations
-Tracking implementations for SIMDs by various clients
+Coordinate SIMD implementations by ecosystem partners
