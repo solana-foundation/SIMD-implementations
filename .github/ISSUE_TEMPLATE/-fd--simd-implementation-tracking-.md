@@ -1,8 +1,8 @@
 ---
-name: 'SIMD Implementation Tracking '
-about: 'SIMD Implementation Tracking '
+name: "[FD] SIMD Implementation Tracking "
+about: 'FireDancer SIMD Implementation Tracking '
 title: "[FD] 0xxx-[SIMD name]"
-labels: ''
+labels: FD
 assignees: ''
 
 ---
